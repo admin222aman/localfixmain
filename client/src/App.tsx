@@ -12,7 +12,7 @@ import ProviderProfile from "@/pages/provider-profile";
 import ProviderPanel from "@/pages/provider-panel";
 import AdminPanel from "@/pages/admin-panel";
 import Booking from "@/pages/booking";
-import SignIn from "@/pages/signin";
+import SignIn from "@/pages/Signin";
 import Register from "@/pages/register";  // ← Add this import
 
 function Router() {
